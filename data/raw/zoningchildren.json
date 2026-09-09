@@ -1,0 +1,249 @@
+[
+    {
+        "Id": "TIT25LADE_CH25-2ZO_SUBCHAPTER_AZOUSDIMADIDE",
+        "Heading": "SUBCHAPTER A. - ZONING USES, DISTRICTS, AND MAP; DISTRICT DESIGNATIONS.",
+        "NodeDepth": 3,
+        "HasChildren": true,
+        "ParentId": "TIT25LADE_CH25-2ZO",
+        "DocOrderId": 223,
+        "Children": [],
+        "Data": {
+            "NodeKey": null,
+            "IsUpdated": false,
+            "IsAmended": false,
+            "HasAmendedDescendant": false,
+            "CompareStatus": 4,
+            "DocType": 1,
+            "DepthOverride": null,
+            "ChunkGroupStartingId": null
+        }
+    },
+    {
+        "Id": "TIT25LADE_CH25-2ZO_SUBCHAPTER_BZOPRSPRECEDI",
+        "Heading": "SUBCHAPTER B. - ZONING PROCEDURES; SPECIAL REQUIREMENTS FOR CERTAIN DISTRICTS.",
+        "NodeDepth": 3,
+        "HasChildren": true,
+        "ParentId": "TIT25LADE_CH25-2ZO",
+        "DocOrderId": 315,
+        "Children": [],
+        "Data": {
+            "NodeKey": null,
+            "IsUpdated": false,
+            "IsAmended": false,
+            "HasAmendedDescendant": false,
+            "CompareStatus": 4,
+            "DocType": 1,
+            "DepthOverride": null,
+            "ChunkGroupStartingId": null
+        }
+    },
+    {
+        "Id": "TIT25LADE_CH25-2ZO_SUBCHAPTER_CUSDERE",
+        "Heading": "SUBCHAPTER C. - USE AND DEVELOPMENT REGULATIONS.",
+        "NodeDepth": 3,
+        "HasChildren": true,
+        "ParentId": "TIT25LADE_CH25-2ZO",
+        "DocOrderId": 389,
+        "Children": [],
+        "Data": {
+            "NodeKey": null,
+            "IsUpdated": false,
+            "IsAmended": false,
+            "HasAmendedDescendant": false,
+            "CompareStatus": 4,
+            "DocType": 1,
+            "DepthOverride": null,
+            "ChunkGroupStartingId": null
+        }
+    },
+    {
+        "Id": "TIT25LADE_CH25-2ZO_SUBCHAPTER_DNEPLCODI",
+        "Heading": "SUBCHAPTER D. - NEIGHBORHOOD PLAN COMBINING DISTRICTS.",
+        "NodeDepth": 3,
+        "HasChildren": true,
+        "ParentId": "TIT25LADE_CH25-2ZO",
+        "DocOrderId": 759,
+        "Children": [],
+        "Data": {
+            "NodeKey": null,
+            "IsUpdated": false,
+            "IsAmended": false,
+            "HasAmendedDescendant": false,
+            "CompareStatus": 4,
+            "DocType": 1,
+            "DepthOverride": null,
+            "ChunkGroupStartingId": null
+        }
+    },
+    {
+        "Id": "TIT25LADE_CH25-2ZO_SUBCHAPTER_EDESTMIUS",
+        "Heading": "SUBCHAPTER E: - DESIGN STANDARDS AND MIXED USE.",
+        "NodeDepth": 3,
+        "HasChildren": true,
+        "ParentId": "TIT25LADE_CH25-2ZO",
+        "DocOrderId": 832,
+        "Children": [],
+        "Data": {
+            "NodeKey": null,
+            "IsUpdated": false,
+            "IsAmended": false,
+            "HasAmendedDescendant": false,
+            "CompareStatus": 4,
+            "DocType": 1,
+            "DepthOverride": null,
+            "ChunkGroupStartingId": null
+        }
+    },
+    {
+        "Id": "TIT25LADE_CH25-2ZO_SUBCHAPTER_FREDECOST",
+        "Heading": "SUBCHAPTER F: - RESIDENTIAL DESIGN AND COMPATIBILITY STANDARDS.",
+        "NodeDepth": 3,
+        "HasChildren": true,
+        "ParentId": "TIT25LADE_CH25-2ZO",
+        "DocOrderId": 858,
+        "Children": [],
+        "Data": {
+            "NodeKey": null,
+            "IsUpdated": false,
+            "IsAmended": false,
+            "HasAmendedDescendant": false,
+            "CompareStatus": 4,
+            "DocType": 1,
+            "DepthOverride": null,
+            "ChunkGroupStartingId": null
+        }
+    },
+    {
+        "Id": "TIT25LADE_CH25-2ZO_APXABOCAVICO",
+        "Heading": "APPENDIX A. - BOUNDARIES OF THE CAPITOL VIEW CORRIDORS.",
+        "NodeDepth": 3,
+        "HasChildren": false,
+        "ParentId": "TIT25LADE_CH25-2ZO",
+        "DocOrderId": 880,
+        "Children": [],
+        "Data": {
+            "NodeKey": null,
+            "IsUpdated": false,
+            "IsAmended": false,
+            "HasAmendedDescendant": false,
+            "CompareStatus": 4,
+            "DocType": 1,
+            "DepthOverride": null,
+            "ChunkGroupStartingId": null
+        }
+    },
+    {
+        "Id": "TIT25LADE_CH25-2ZO_APXBBOWAOVDI",
+        "Heading": "APPENDIX B. - BOUNDARIES OF THE WATERFRONT OVERLAY DISTRICT.",
+        "NodeDepth": 3,
+        "HasChildren": false,
+        "ParentId": "TIT25LADE_CH25-2ZO",
+        "DocOrderId": 881,
+        "Children": [],
+        "Data": {
+            "NodeKey": null,
+            "IsUpdated": false,
+            "IsAmended": false,
+            "HasAmendedDescendant": false,
+            "CompareStatus": 4,
+            "DocType": 1,
+            "DepthOverride": null,
+            "ChunkGroupStartingId": null
+        }
+    },
+    {
+        "Id": "TIT25LADE_CH25-2ZO_APXCUNNEOVDIBOSUBOHELIADHEAFUNNEOVDIBO",
+        "Heading": "APPENDIX C. - UNIVERSITY NEIGHBORHOOD OVERLAY DISTRICT BOUNDARIES, SUBDISTRICT BOUNDARIES, HEIGHT LIMITS, AND ADDITIONAL HEIGHT AND AFFORDABILITY University Neighborhood Overlay District Boundaries",
+        "NodeDepth": 3,
+        "HasChildren": false,
+        "ParentId": "TIT25LADE_CH25-2ZO",
+        "DocOrderId": 882,
+        "Children": [],
+        "Data": {
+            "NodeKey": null,
+            "IsUpdated": false,
+            "IsAmended": false,
+            "HasAmendedDescendant": false,
+            "CompareStatus": 4,
+            "DocType": 1,
+            "DepthOverride": null,
+            "ChunkGroupStartingId": null
+        }
+    },
+    {
+        "Id": "TIT25LADE_CH25-2ZO_APXDTRORDEDI",
+        "Heading": "APPENDIX D. - TRANSIT ORIENTED DEVELOPMENT DISTRICTS",
+        "NodeDepth": 3,
+        "HasChildren": false,
+        "ParentId": "TIT25LADE_CH25-2ZO",
+        "DocOrderId": 883,
+        "Children": [],
+        "Data": {
+            "NodeKey": null,
+            "IsUpdated": false,
+            "IsAmended": false,
+            "HasAmendedDescendant": false,
+            "CompareStatus": 4,
+            "DocType": 1,
+            "DepthOverride": null,
+            "ChunkGroupStartingId": null
+        }
+    },
+    {
+        "Id": "TIT25LADE_CH25-2ZO_APXENOBUGANBZODIBOSUMA",
+        "Heading": "APPENDIX E. - NORTH BURNET/GATEWAY (NBG) ZONING DISTRICT BOUNDARIES SUBDISTRICT MAP.",
+        "NodeDepth": 3,
+        "HasChildren": false,
+        "ParentId": "TIT25LADE_CH25-2ZO",
+        "DocOrderId": 884,
+        "Children": [],
+        "Data": {
+            "NodeKey": null,
+            "IsUpdated": false,
+            "IsAmended": false,
+            "HasAmendedDescendant": false,
+            "CompareStatus": 4,
+            "DocType": 1,
+            "DepthOverride": null,
+            "ChunkGroupStartingId": null
+        }
+    },
+    {
+        "Id": "TIT25LADE_CH25-2ZO_APXFCEURRECUCODIBO",
+        "Heading": "APPENDIX F. - CENTRAL URBAN REDEVELOPMENT (CURE) COMBINING DISTRICT BOUNDARIES.",
+        "NodeDepth": 3,
+        "HasChildren": false,
+        "ParentId": "TIT25LADE_CH25-2ZO",
+        "DocOrderId": 885,
+        "Children": [],
+        "Data": {
+            "NodeKey": null,
+            "IsUpdated": false,
+            "IsAmended": false,
+            "HasAmendedDescendant": false,
+            "CompareStatus": 4,
+            "DocType": 1,
+            "DepthOverride": null,
+            "ChunkGroupStartingId": null
+        }
+    },
+    {
+        "Id": "TIT25LADE_CH25-2ZO_APXGETBO",
+        "Heading": "APPENDIX G. - ETOD BOUNDARIES",
+        "NodeDepth": 3,
+        "HasChildren": false,
+        "ParentId": "TIT25LADE_CH25-2ZO",
+        "DocOrderId": 886,
+        "Children": [],
+        "Data": {
+            "NodeKey": null,
+            "IsUpdated": false,
+            "IsAmended": false,
+            "HasAmendedDescendant": false,
+            "CompareStatus": 4,
+            "DocType": 1,
+            "DepthOverride": null,
+            "ChunkGroupStartingId": null
+        }
+    }
+]

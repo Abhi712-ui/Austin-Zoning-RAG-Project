@@ -1,0 +1,249 @@
+[
+    {
+        "Id": "TIT25LADE_CH25-1GEREPR",
+        "Heading": "CHAPTER 25-1. - GENERAL REQUIREMENTS AND PROCEDURES.",
+        "NodeDepth": 2,
+        "HasChildren": true,
+        "ParentId": "TIT25LADE",
+        "DocOrderId": 6,
+        "Children": [],
+        "Data": {
+            "NodeKey": null,
+            "IsUpdated": false,
+            "IsAmended": false,
+            "HasAmendedDescendant": false,
+            "CompareStatus": 4,
+            "DocType": 1,
+            "DepthOverride": null,
+            "ChunkGroupStartingId": null
+        }
+    },
+    {
+        "Id": "TIT25LADE_CH25-2ZO",
+        "Heading": "CHAPTER 25-2. - ZONING.",
+        "NodeDepth": 2,
+        "HasChildren": true,
+        "ParentId": "TIT25LADE",
+        "DocOrderId": 222,
+        "Children": [],
+        "Data": {
+            "NodeKey": null,
+            "IsUpdated": false,
+            "IsAmended": false,
+            "HasAmendedDescendant": false,
+            "CompareStatus": 4,
+            "DocType": 1,
+            "DepthOverride": null,
+            "ChunkGroupStartingId": null
+        }
+    },
+    {
+        "Id": "TIT25LADE_CH25-3TRNEDI",
+        "Heading": "CHAPTER 25-3. - TRADITIONAL NEIGHBORHOOD DISTRICT.",
+        "NodeDepth": 2,
+        "HasChildren": true,
+        "ParentId": "TIT25LADE",
+        "DocOrderId": 887,
+        "Children": [],
+        "Data": {
+            "NodeKey": null,
+            "IsUpdated": false,
+            "IsAmended": false,
+            "HasAmendedDescendant": false,
+            "CompareStatus": 4,
+            "DocType": 1,
+            "DepthOverride": null,
+            "ChunkGroupStartingId": null
+        }
+    },
+    {
+        "Id": "TIT25LADE_CH25-4SU",
+        "Heading": "CHAPTER 25-4. - SUBDIVISION.",
+        "NodeDepth": 2,
+        "HasChildren": true,
+        "ParentId": "TIT25LADE",
+        "DocOrderId": 951,
+        "Children": [],
+        "Data": {
+            "NodeKey": null,
+            "IsUpdated": false,
+            "IsAmended": false,
+            "HasAmendedDescendant": false,
+            "CompareStatus": 4,
+            "DocType": 1,
+            "DepthOverride": null,
+            "ChunkGroupStartingId": null
+        }
+    },
+    {
+        "Id": "TIT25LADE_CH25-5SIPL",
+        "Heading": "CHAPTER 25-5. - SITE PLANS.",
+        "NodeDepth": 2,
+        "HasChildren": true,
+        "ParentId": "TIT25LADE",
+        "DocOrderId": 1037,
+        "Children": [],
+        "Data": {
+            "NodeKey": null,
+            "IsUpdated": false,
+            "IsAmended": false,
+            "HasAmendedDescendant": false,
+            "CompareStatus": 4,
+            "DocType": 1,
+            "DepthOverride": null,
+            "ChunkGroupStartingId": null
+        }
+    },
+    {
+        "Id": "TIT25LADE_CH25-6TR",
+        "Heading": "CHAPTER 25-6. - TRANSPORTATION.",
+        "NodeDepth": 2,
+        "HasChildren": true,
+        "ParentId": "TIT25LADE",
+        "DocOrderId": 1080,
+        "Children": [],
+        "Data": {
+            "NodeKey": null,
+            "IsUpdated": false,
+            "IsAmended": false,
+            "HasAmendedDescendant": false,
+            "CompareStatus": 4,
+            "DocType": 1,
+            "DepthOverride": null,
+            "ChunkGroupStartingId": null
+        }
+    },
+    {
+        "Id": "TIT25LADE_CH25-7DR",
+        "Heading": "CHAPTER 25-7. - DRAINAGE.",
+        "NodeDepth": 2,
+        "HasChildren": true,
+        "ParentId": "TIT25LADE",
+        "DocOrderId": 1250,
+        "Children": [],
+        "Data": {
+            "NodeKey": null,
+            "IsUpdated": false,
+            "IsAmended": false,
+            "HasAmendedDescendant": false,
+            "CompareStatus": 4,
+            "DocType": 1,
+            "DepthOverride": null,
+            "ChunkGroupStartingId": null
+        }
+    },
+    {
+        "Id": "TIT25LADE_CH25-8EN",
+        "Heading": "CHAPTER 25-8. - ENVIRONMENT.",
+        "NodeDepth": 2,
+        "HasChildren": true,
+        "ParentId": "TIT25LADE",
+        "DocOrderId": 1283,
+        "Children": [],
+        "Data": {
+            "NodeKey": null,
+            "IsUpdated": false,
+            "IsAmended": false,
+            "HasAmendedDescendant": false,
+            "CompareStatus": 4,
+            "DocType": 1,
+            "DepthOverride": null,
+            "ChunkGroupStartingId": null
+        }
+    },
+    {
+        "Id": "TIT25LADE_CH25-9WAWA",
+        "Heading": "CHAPTER 25-9. - WATER AND WASTEWATER.",
+        "NodeDepth": 2,
+        "HasChildren": true,
+        "ParentId": "TIT25LADE",
+        "DocOrderId": 1436,
+        "Children": [],
+        "Data": {
+            "NodeKey": null,
+            "IsUpdated": false,
+            "IsAmended": false,
+            "HasAmendedDescendant": false,
+            "CompareStatus": 4,
+            "DocType": 1,
+            "DepthOverride": null,
+            "ChunkGroupStartingId": null
+        }
+    },
+    {
+        "Id": "TIT25LADE_CH25-10SIRE",
+        "Heading": "CHAPTER 25-10. - SIGN REGULATIONS.",
+        "NodeDepth": 2,
+        "HasChildren": true,
+        "ParentId": "TIT25LADE",
+        "DocOrderId": 1583,
+        "Children": [],
+        "Data": {
+            "NodeKey": null,
+            "IsUpdated": false,
+            "IsAmended": false,
+            "HasAmendedDescendant": false,
+            "CompareStatus": 4,
+            "DocType": 1,
+            "DepthOverride": null,
+            "ChunkGroupStartingId": null
+        }
+    },
+    {
+        "Id": "TIT25LADE_CH25-11BUDEREPESPREHIST",
+        "Heading": "CHAPTER 25-11. - BUILDING, DEMOLITION, AND RELOCATION PERMITS; SPECIAL REQUIREMENTS FOR HISTORIC STRUCTURES.",
+        "NodeDepth": 2,
+        "HasChildren": true,
+        "ParentId": "TIT25LADE",
+        "DocOrderId": 1653,
+        "Children": [],
+        "Data": {
+            "NodeKey": null,
+            "IsUpdated": false,
+            "IsAmended": false,
+            "HasAmendedDescendant": false,
+            "CompareStatus": 4,
+            "DocType": 1,
+            "DepthOverride": null,
+            "ChunkGroupStartingId": null
+        }
+    },
+    {
+        "Id": "TIT25LADE_CH25-12TECO",
+        "Heading": "CHAPTER 25-12. - TECHNICAL CODES.",
+        "NodeDepth": 2,
+        "HasChildren": true,
+        "ParentId": "TIT25LADE",
+        "DocOrderId": 1725,
+        "Children": [],
+        "Data": {
+            "NodeKey": null,
+            "IsUpdated": false,
+            "IsAmended": false,
+            "HasAmendedDescendant": false,
+            "CompareStatus": 4,
+            "DocType": 1,
+            "DepthOverride": null,
+            "ChunkGroupStartingId": null
+        }
+    },
+    {
+        "Id": "TIT25LADE_CH25-13AIHACOLAUSRE",
+        "Heading": "CHAPTER 25-13. - AIRPORT HAZARD AND COMPATIBLE LAND USE REGULATIONS.",
+        "NodeDepth": 2,
+        "HasChildren": true,
+        "ParentId": "TIT25LADE",
+        "DocOrderId": 1793,
+        "Children": [],
+        "Data": {
+            "NodeKey": null,
+            "IsUpdated": false,
+            "IsAmended": false,
+            "HasAmendedDescendant": false,
+            "CompareStatus": 4,
+            "DocType": 1,
+            "DepthOverride": null,
+            "ChunkGroupStartingId": null
+        }
+    }
+]

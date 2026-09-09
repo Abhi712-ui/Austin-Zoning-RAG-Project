@@ -1,8 +1,7 @@
-import argparse
 from pathlib import Path
 import json
 import requests
-
+import parsing_help
 
 API = "https://api.municode.com"
 STATE = "TX"
@@ -10,47 +9,86 @@ CLIENT = "Austin"
 CLIENT_ID = "1113"
 PRODUCT_ID = 15303
 JOB_ID = 488379
-
-response = requests.get(
-    f"{API}/Clients/{CLIENT_ID}"
-)
-
-response.raise_for_status()
-client = response.json()
-print(json.dumps(client, indent=4))
-
-products = requests.get(
-    f"{API}/ClientContent/{CLIENT_ID}"
-).json()
-
-#print(type(products))
-#print(json.dumps(products, indent=4))
-
-land_development = next(
-    product for product in products["codes"] if product["productName"].lower() == "land development code"
-)
-
-product_id = land_development["productId"]
-print(json.dumps(land_development, indent=4))
-print("Product ID:", product_id)
-
-response = requests.get(
-    f"{API}/Jobs/latest/{PRODUCT_ID}"
-)
-
-response.raise_for_status()
-current_version = response.json()
-print(json.dumps(current_version, indent=4))
+TITLE_25_ID = "TIT25LADE"
+ZONING_SECTION_ID = "TIT25LADE_CH25-2ZO"
 
 get_table_of_contents = requests.get(
     f"{API}/codesToc",
     params={
-        "job id": JOB_ID,
-        "product id": PRODUCT_ID
+        "jobId": JOB_ID,
+        "productId": PRODUCT_ID
     }
 )
-
 get_table_of_contents.raise_for_status()
 toc = get_table_of_contents.json()
 
-print(json.dumps(toc, indent=4))
+Path("data/raw").mkdir(parents=True, exist_ok=True)
+with open("data/raw/toc.json", "w") as f:
+    json.dump(toc, f, indent=4)
+    
+
+    
+chapter_matches = parsing_help.find_nodes(toc, "CHAPTER 25-2")
+#for match in chapter_matches:
+    #print(json.dumps(match, indent=4))
+    
+
+
+response = requests.get(
+    f"{API}/codesToc/children",
+    params={
+        "jobId": JOB_ID,
+        "nodeId": TITLE_25_ID,
+        "productId": PRODUCT_ID
+    }
+)
+
+response.raise_for_status()
+title_25_children = response.json()
+
+Path("data/raw").mkdir(parents=True, exist_ok=True)
+with open("data/raw/title25.json", "w") as f:
+    json.dump(title_25_children, f, indent=4)
+    
+response = requests.get(
+    f"{API}/codesToc/children",
+    params={
+        "jobId": JOB_ID,
+        "nodeId": ZONING_SECTION_ID,
+        "productId": PRODUCT_ID
+    }
+)
+
+response.raise_for_status()
+zoning_children = response.json()
+
+with open("data/raw/zoningchildren.json", "w") as f:
+    json.dump(zoning_children, f, indent=4)
+    
+all_zoning_nodes = []
+
+for child in zoning_children:
+    all_zoning_nodes.extend(
+        parsing_help.walk_tree(
+            child,
+            hierarchy=["CHAPTER 25-2. ZONING"]
+        )
+    )
+
+print("Total zoning nodes:", len(all_zoning_nodes))
+
+with open("data/raw/zoning_nodes.json", "w") as f:
+    json.dump(all_zoning_nodes, f, indent=4)
+    
+leaf_nodes = [
+    node for node in all_zoning_nodes
+    if not node["has_children"]
+]
+
+print(json.dumps(leaf_nodes[0], indent=4))
+
+test_content = parsing_help.get_content(
+    leaf_nodes[0]["id"]
+)
+
+print(json.dumps(test_content, indent=4))

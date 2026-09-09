@@ -1,0 +1,115 @@
+{
+    "Id": "15303",
+    "Heading": "Land Development Code",
+    "NodeDepth": -1,
+    "HasChildren": true,
+    "ParentId": null,
+    "DocOrderId": -1,
+    "Children": [
+        {
+            "Id": "THCOAUTE",
+            "Heading": "THE CODE OF THE CITY OF AUSTIN, TEXAS ",
+            "NodeDepth": 1,
+            "HasChildren": true,
+            "ParentId": "15303",
+            "DocOrderId": 1,
+            "Children": [],
+            "Data": {
+                "NodeKey": null,
+                "IsUpdated": false,
+                "IsAmended": false,
+                "HasAmendedDescendant": false,
+                "CompareStatus": 4,
+                "DocType": 1,
+                "DepthOverride": null,
+                "ChunkGroupStartingId": null
+            }
+        },
+        {
+            "Id": "SUHITA",
+            "Heading": "SUPPLEMENT HISTORY TABLE",
+            "NodeDepth": 1,
+            "HasChildren": false,
+            "ParentId": "15303",
+            "DocOrderId": 4,
+            "Children": [],
+            "Data": {
+                "NodeKey": null,
+                "IsUpdated": true,
+                "IsAmended": false,
+                "HasAmendedDescendant": false,
+                "CompareStatus": 2,
+                "DocType": 1,
+                "DepthOverride": null,
+                "ChunkGroupStartingId": null
+            }
+        },
+        {
+            "Id": "TIT25LADE",
+            "Heading": "TITLE 25. - LAND DEVELOPMENT.",
+            "NodeDepth": 1,
+            "HasChildren": true,
+            "ParentId": "15303",
+            "DocOrderId": 5,
+            "Children": [],
+            "Data": {
+                "NodeKey": null,
+                "IsUpdated": false,
+                "IsAmended": false,
+                "HasAmendedDescendant": false,
+                "CompareStatus": 4,
+                "DocType": 1,
+                "DepthOverride": null,
+                "ChunkGroupStartingId": null
+            }
+        },
+        {
+            "Id": "TIT30AUTRCOSURE",
+            "Heading": "TITLE 30. - AUSTIN/TRAVIS COUNTY SUBDIVISION REGULATIONS.",
+            "NodeDepth": 1,
+            "HasChildren": true,
+            "ParentId": "15303",
+            "DocOrderId": 1819,
+            "Children": [],
+            "Data": {
+                "NodeKey": null,
+                "IsUpdated": false,
+                "IsAmended": false,
+                "HasAmendedDescendant": false,
+                "CompareStatus": 4,
+                "DocType": 1,
+                "DepthOverride": null,
+                "ChunkGroupStartingId": null
+            }
+        },
+        {
+            "Id": "COCOTA",
+            "Heading": "CODE COMPARATIVE TABLE",
+            "NodeDepth": 1,
+            "HasChildren": true,
+            "ParentId": "15303",
+            "DocOrderId": 2249,
+            "Children": [],
+            "Data": {
+                "NodeKey": null,
+                "IsUpdated": false,
+                "IsAmended": false,
+                "HasAmendedDescendant": false,
+                "CompareStatus": 4,
+                "DocType": 1,
+                "DepthOverride": null,
+                "ChunkGroupStartingId": null
+            }
+        }
+    ],
+    "Data": {
+        "NodeKey": null,
+        "IsUpdated": false,
+        "IsAmended": false,
+        "HasAmendedDescendant": false,
+        "CompareStatus": 0,
+        "DocType": 0,
+        "DepthOverride": null,
+        "ChunkGroupStartingId": null
+    }
+}
