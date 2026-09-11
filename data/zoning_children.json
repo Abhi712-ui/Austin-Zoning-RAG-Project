@@ -5,7 +5,7 @@
         "NodeDepth": 3,
         "HasChildren": true,
         "ParentId": "TIT25LADE_CH25-2ZO",
-        "DocOrderId": 223,
+        "DocOrderId": 224,
         "Children": [],
         "Data": {
             "NodeKey": null,
@@ -24,7 +24,7 @@
         "NodeDepth": 3,
         "HasChildren": true,
         "ParentId": "TIT25LADE_CH25-2ZO",
-        "DocOrderId": 315,
+        "DocOrderId": 316,
         "Children": [],
         "Data": {
             "NodeKey": null,
@@ -43,7 +43,7 @@
         "NodeDepth": 3,
         "HasChildren": true,
         "ParentId": "TIT25LADE_CH25-2ZO",
-        "DocOrderId": 389,
+        "DocOrderId": 390,
         "Children": [],
         "Data": {
             "NodeKey": null,
@@ -62,7 +62,7 @@
         "NodeDepth": 3,
         "HasChildren": true,
         "ParentId": "TIT25LADE_CH25-2ZO",
-        "DocOrderId": 759,
+        "DocOrderId": 762,
         "Children": [],
         "Data": {
             "NodeKey": null,
@@ -81,7 +81,7 @@
         "NodeDepth": 3,
         "HasChildren": true,
         "ParentId": "TIT25LADE_CH25-2ZO",
-        "DocOrderId": 832,
+        "DocOrderId": 835,
         "Children": [],
         "Data": {
             "NodeKey": null,
@@ -100,7 +100,7 @@
         "NodeDepth": 3,
         "HasChildren": true,
         "ParentId": "TIT25LADE_CH25-2ZO",
-        "DocOrderId": 858,
+        "DocOrderId": 861,
         "Children": [],
         "Data": {
             "NodeKey": null,
@@ -119,7 +119,7 @@
         "NodeDepth": 3,
         "HasChildren": false,
         "ParentId": "TIT25LADE_CH25-2ZO",
-        "DocOrderId": 880,
+        "DocOrderId": 883,
         "Children": [],
         "Data": {
             "NodeKey": null,
@@ -138,7 +138,7 @@
         "NodeDepth": 3,
         "HasChildren": false,
         "ParentId": "TIT25LADE_CH25-2ZO",
-        "DocOrderId": 881,
+        "DocOrderId": 884,
         "Children": [],
         "Data": {
             "NodeKey": null,
@@ -157,7 +157,7 @@
         "NodeDepth": 3,
         "HasChildren": false,
         "ParentId": "TIT25LADE_CH25-2ZO",
-        "DocOrderId": 882,
+        "DocOrderId": 885,
         "Children": [],
         "Data": {
             "NodeKey": null,
@@ -176,7 +176,7 @@
         "NodeDepth": 3,
         "HasChildren": false,
         "ParentId": "TIT25LADE_CH25-2ZO",
-        "DocOrderId": 883,
+        "DocOrderId": 886,
         "Children": [],
         "Data": {
             "NodeKey": null,
@@ -195,7 +195,7 @@
         "NodeDepth": 3,
         "HasChildren": false,
         "ParentId": "TIT25LADE_CH25-2ZO",
-        "DocOrderId": 884,
+        "DocOrderId": 887,
         "Children": [],
         "Data": {
             "NodeKey": null,
@@ -214,7 +214,7 @@
         "NodeDepth": 3,
         "HasChildren": false,
         "ParentId": "TIT25LADE_CH25-2ZO",
-        "DocOrderId": 885,
+        "DocOrderId": 888,
         "Children": [],
         "Data": {
             "NodeKey": null,
@@ -233,7 +233,7 @@
         "NodeDepth": 3,
         "HasChildren": false,
         "ParentId": "TIT25LADE_CH25-2ZO",
-        "DocOrderId": 886,
+        "DocOrderId": 889,
         "Children": [],
         "Data": {
             "NodeKey": null,
@@ -241,6 +241,25 @@
             "IsAmended": false,
             "HasAmendedDescendant": false,
             "CompareStatus": 4,
+            "DocType": 1,
+            "DepthOverride": null,
+            "ChunkGroupStartingId": null
+        }
+    },
+    {
+        "Id": "TIT25LADE_CH25-2ZO_APXHDDDDBOMA",
+        "Heading": "APPENDIX H. - DDB400 AND DDB850 BOUNDARIES MAP",
+        "NodeDepth": 3,
+        "HasChildren": false,
+        "ParentId": "TIT25LADE_CH25-2ZO",
+        "DocOrderId": 890,
+        "Children": [],
+        "Data": {
+            "NodeKey": null,
+            "IsUpdated": true,
+            "IsAmended": false,
+            "HasAmendedDescendant": false,
+            "CompareStatus": 0,
             "DocType": 1,
             "DepthOverride": null,
             "ChunkGroupStartingId": null

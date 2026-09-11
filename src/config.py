@@ -1,0 +1,13 @@
+from pathlib import Path
+
+API = "https://api.municode.com"
+STATE = "TX"
+CLIENT = "Austin"
+CLIENT_ID = "1113"
+PRODUCT_ID = 15303
+JOB_ID = 497334
+TITLE_25_ID = "TIT25LADE"
+ZONING_SECTION_ID = "TIT25LADE_CH25-2ZO"
+CHUNK_THRESHOLD = 5000
+WRITE_DIR = Path("../data")
+CORPUS_DIR = Path("../corpus")
