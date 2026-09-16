@@ -1,7 +1,6 @@
 import json
 from helper_functions.api import get_api
 from config import (
-    API, 
     CLIENT_ID, 
     WRITE_DIR, 
     PRODUCT_ID, 
