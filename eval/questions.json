@@ -1,0 +1,98 @@
+[
+    {
+        "number": 1,
+        "question": "What is the maximum allowed impervious cover in an SF-3 district?",
+        "answer": "45%",
+        "expected_sections": ["TIT25LADE_CH25-2ZO_SUBCHAPTER_CUSDERE_ART2PRUSDERE_DIV1RETA_S25-2-492SIDERE"],
+        "section_label": "25-2-492",
+        "category": "single_section",
+        "answerable": true
+    },
+    {
+        "number": 2,
+        "question": "What is the maximum building height in an MF-3 district?",
+        "answer": "40 feet",
+        "expected_sections": ["TIT25LADE_CH25-2ZO_SUBCHAPTER_CUSDERE_ART2PRUSDERE_DIV1RETA_S25-2-492SIDERE"],
+        "section_label": "25-2-492",
+        "category": "single_section",
+        "answerable": true
+    },
+    {
+        "number": 3,
+        "question": "What is the minimum front yard setback in a GR district?",
+        "answer": "10 feet",
+        "expected_sections": ["TIT25LADE_CH25-2ZO_SUBCHAPTER_CUSDERE_ART2PRUSDERE_DIV1RETA_S25-2-492SIDERE"],
+        "section_label": "25-2-492",
+        "category": "single_section",
+        "answerable": true
+    },
+    {
+        "number": 4,
+        "question": "What is the minimum lot size in an MF-3 district?",
+        "answer": "8,000 square feet",
+        "expected_sections": ["TIT25LADE_CH25-2ZO_SUBCHAPTER_CUSDERE_ART2PRUSDERE_DIV1RETA_S25-2-492SIDERE"],
+        "section_label": "25-2-492",
+        "category": "single_section",
+        "answerable": true
+    },
+    {
+        "number": 5,
+        "question": "What is the maximum floor area ratio in a CS district?",
+        "answer": "2:1",
+        "expected_sections": ["TIT25LADE_CH25-2ZO_SUBCHAPTER_CUSDERE_ART2PRUSDERE_DIV1RETA_S25-2-492SIDERE"],
+        "section_label": "25-2-492",
+        "category": "single_section",
+        "answerable": true
+    },
+    {
+        "number": 6,
+        "question": "Is a child care services (general) use permitted in an SF-3 district?",
+        "answer": "Yes - permitted (P)",
+        "expected_sections": ["TIT25LADE_CH25-2ZO_SUBCHAPTER_CUSDERE_ART2PRUSDERE_DIV1RETA_S25-2-491PECOPRUS"],
+        "section_label": "25-2-491",
+        "category": "single_section",
+        "answerable": true
+    },
+    {
+        "number": 7,
+        "question": "Is a cocktail lounge permitted in an SF-3 district?",
+        "answer": "No - not permitted",
+        "expected_sections": ["TIT25LADE_CH25-2ZO_SUBCHAPTER_CUSDERE_ART2PRUSDERE_DIV1RETA_S25-2-491PECOPRUS"],
+        "section_label": "25-2-491",
+        "category": "single_section",
+        "answerable": true
+    },
+    {
+        "number": 8,
+        "question": "Is an art gallery permitted in an R&D district?",
+        "answer": "The use table defers the R&D column to note 1, which refers to 25-2-602 (R&D District Uses); that section is required to answer.",
+        "expected_sections": [
+            "TIT25LADE_CH25-2ZO_SUBCHAPTER_CUSDERE_ART2PRUSDERE_DIV1RETA_S25-2-491PECOPRUS",
+            "TIT25LADE_CH25-2ZO_SUBCHAPTER_CUSDERE_ART3ADRECEDI_DIV3INDI_S25-2-602REDERDDIUS"
+        ],
+        "section_label": "25-2-491, 25-2-602",
+        "category": "multi_hop",
+        "answerable": true
+    },
+    {
+        "number": 9,
+        "question": "Can a bail bond service operate by right on a CS-zoned property inside the DDB400 district?",
+        "answer": "No - 25-2-491 lists CS as PC, and 25-2-657 lists bail bond services as a conditional use in DDB400, so a conditional use permit is required.",
+        "expected_sections": [
+            "TIT25LADE_CH25-2ZO_SUBCHAPTER_CUSDERE_ART2PRUSDERE_DIV1RETA_S25-2-491PECOPRUS",
+            "TIT25LADE_CH25-2ZO_SUBCHAPTER_CUSDERE_ART3ADRECEDI_DIV5COOVDI_S25-2-657DODEBO400DDCODIDODEBODDCODIRE"
+        ],
+        "section_label": "25-2-491, 25-2-657",
+        "category": "multi_hop",
+        "answerable": true
+    },
+    {
+        "number": 10,
+        "question": "What is the maximum permitted noise level, in decibels, in an SF-3 district?",
+        "answer": "Not addressed in Chapter 25-2.",
+        "expected_sections": [],
+        "section_label": "",
+        "category": "unanswerable",
+        "answerable": false
+    }
+]
